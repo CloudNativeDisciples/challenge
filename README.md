@@ -1,7 +1,8 @@
 # Lalamove Tech challenges
 
 Choose the challenge most appropriate for you (one is enough):
-
+- [Golang Intern](https://github.com/lalamove/intern-tech-challenge)
+- [Infra](https://github.com/lalamove/infra-challenge)
 - [Backend](backend.md)
 - [Frontend](frontend.md)
 - [Mobile](mobile.md)
